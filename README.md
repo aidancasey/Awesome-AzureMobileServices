@@ -17,7 +17,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Build a Hybrid Application with the Ionic Framework and Windows Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/)
 
 - JavaScript 
-        - [AngularJS service to interact with the Azure Mobile Service Client](https://github.com/TerryMooreII/angular-azure-mobile-service)
+
+	- [AngularJS service to interact with the Azure Mobile Service Client](https://github.com/TerryMooreII/angular-azure-mobile-service)
+	- [Backbone sync for Azue Mobile Services](hhttps://github.com/MSOpenTech/backbone-azure-mobile-services)
 
 - NoSQL
 	- [Exposing MongoDB collections on the node.js backend](http://blogs.msdn.com/b/azuremobile/archive/2014/06/24/exposing-mongodb-collections-on-the-node-js-backend.aspx/)
@@ -25,7 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Node.js
 	- [Announcing Node.js support for Azure Mobile Apps](https://azure.microsoft.com/en-us/blog/announcing-node-for-azure-mobile-apps/)
   - [Introduction to Azure Mobile Apps and Node.js](http://shellmonger.com/2015/09/15/azure-mobile-apps-and-nodejs/)
-	- [Azure Mobile Apps, NodeJS and Custom Authentication](http://shellmonger.com/2015/10/06/azure-mobile-apps-nodejs-and-authentication/)
+  - [Azure Mobile Apps, NodeJS and Custom Authentication](http://shellmonger.com/2015/10/06/azure-mobile-apps-nodejs-and-authentication/)
 
 - Xamarin
 	- [Getting Started](https://components.xamarin.com/gettingstarted/azure-mobile-services/)
