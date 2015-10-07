@@ -16,6 +16,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Ionic Framework
 	- [Build a Hybrid Application with the Ionic Framework and Windows Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/)
 
+- .NET
+	- [ Configuring The OWIN Pipeline](http://blog.nankov.com/azure-mobile-services-configuring-the-owin-pipeline/)
+	 
 - JavaScript 
 
 	- [AngularJS service to interact with the Azure Mobile Service Client](https://github.com/TerryMooreII/angular-azure-mobile-service)
