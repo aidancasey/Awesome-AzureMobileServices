@@ -19,7 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - JavaScript 
 
 	- [AngularJS service to interact with the Azure Mobile Service Client](https://github.com/TerryMooreII/angular-azure-mobile-service)
-	- [Backbone sync for Azue Mobile Services](hhttps://github.com/MSOpenTech/backbone-azure-mobile-services)
+	- [Backbone sync for Azue Mobile Services](https://github.com/MSOpenTech/backbone-azure-mobile-services)
 
 - NoSQL
 	- [Exposing MongoDB collections on the node.js backend](http://blogs.msdn.com/b/azuremobile/archive/2014/06/24/exposing-mongodb-collections-on-the-node-js-backend.aspx/)
