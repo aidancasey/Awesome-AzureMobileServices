@@ -16,6 +16,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Ionic Framework
 	- [Build a Hybrid Application with the Ionic Framework and Windows Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/)
 
+- JavaScript 
+        - [AngularJS service to interact with the Azure Mobile Service Client](https://github.com/TerryMooreII/angular-azure-mobile-service)
+
 - NoSQL
 	- [Exposing MongoDB collections on the node.js backend](http://blogs.msdn.com/b/azuremobile/archive/2014/06/24/exposing-mongodb-collections-on-the-node-js-backend.aspx/)
 
