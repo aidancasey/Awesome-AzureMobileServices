@@ -1,4 +1,4 @@
-# Awesome Cloud
+# Awesome Azure Mobile Services
 
 >A curated list of amazingly awesome Windows Azure Mobile Services, resources and solutions.
 
