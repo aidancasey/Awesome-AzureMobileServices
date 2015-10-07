@@ -18,6 +18,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - .NET
 	- [ Configuring The OWIN Pipeline](http://blog.nankov.com/azure-mobile-services-configuring-the-owin-pipeline/)
+ 
+- Platform
+	- [Addding caching and rate limiting to your Mobile Service using Azure API Management](http://giventocode.com/azure-api-management-and-azure-mobile-services#.VhWm5PmqpBd)
+ 	
 	 
 - JavaScript 
 
