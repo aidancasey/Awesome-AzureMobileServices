@@ -26,6 +26,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - NoSQL
 	- [Exposing MongoDB collections on the node.js backend](http://blogs.msdn.com/b/azuremobile/archive/2014/06/24/exposing-mongodb-collections-on-the-node-js-backend.aspx/)
+	- [Using Windows Azure Mobile Services with a MongoDB Database](http://www.contentmaster.com/azure/using-windows-azure-mobile-services-with-a-mongodb-database/)
+
+
 
 - Node.js
 	- [Announcing Node.js support for Azure Mobile Apps](https://azure.microsoft.com/en-us/blog/announcing-node-for-azure-mobile-apps/)
