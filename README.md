@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - .NET
 	- [ Configuring The OWIN Pipeline](http://blog.nankov.com/azure-mobile-services-configuring-the-owin-pipeline/)
+	- [ Insert/Update data with 1:n relationship using .NET backend ](http://blogs.msdn.com/b/azuremobile/archive/2014/06/18/insert-update-related-data-with-1-n-relationship-using-net-backend-azure-mobile-services.aspx)
  
 - Platform
 	- [Addding caching and rate limiting to your Mobile Service using Azure API Management](http://giventocode.com/azure-api-management-and-azure-mobile-services#.VhWm5PmqpBd)
