@@ -24,7 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Platform
 	- [Addding caching and rate limiting to your Mobile Service using Azure API Management](http://giventocode.com/azure-api-management-and-azure-mobile-services#.VhWm5PmqpBd)
  	
-	 
+- PhoneGap
+	- [Push Notifications to PhoneGap Apps using Notification Hubs Integration](http://blogs.msdn.com/b/azuremobile/archive/2014/06/17/push-notifications-to-phonegap-apps-using-notification-hubs-integration.aspx)	 
+
 - JavaScript 
 
 	- [AngularJS service to interact with the Azure Mobile Service Client](https://github.com/TerryMooreII/angular-azure-mobile-service)
