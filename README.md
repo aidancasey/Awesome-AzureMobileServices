@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
     - [Official Quick Start Tutorials](https://azure.microsoft.com/en-us/documentation/articles/mobile-services-javascript-backend-windows-store-dotnet-get-started/)
     - [Official Github SDK](https://github.com/Azure/azure-mobile-services)
   - [The twelve days of ZUMO](http://www.thejoyofcode.com/The_twelve_days_of_ZUMO.aspx)
-	
+  - [Neat trick - opening kudo config page on your mobile service](http://blogs.msdn.com/b/cdndevs/archive/2015/09/28/azure-mobile-services-with-node.aspx)
 - Ionic Framework
 	- [Build a Hybrid Application with the Ionic Framework and Windows Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/)
 
