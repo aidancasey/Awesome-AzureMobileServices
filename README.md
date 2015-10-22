@@ -17,6 +17,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Ionic Framework
 	- [Build a Hybrid Application with the Ionic Framework and Windows Azure Mobile Services](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/)
 
+-Open Source Projects
+    - [.NET Server SDK](https://github.com/Azure/azure-mobile-services)
+
+
 - .NET
 	- [ Configuring The OWIN Pipeline](http://blog.nankov.com/azure-mobile-services-configuring-the-owin-pipeline/)
 	- [ Insert/Update data with 1:n relationship using .NET backend ](http://blogs.msdn.com/b/azuremobile/archive/2014/06/18/insert-update-related-data-with-1-n-relationship-using-net-backend-azure-mobile-services.aspx)
