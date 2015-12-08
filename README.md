@@ -27,7 +27,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 - Platform
 	- [Addding caching and rate limiting to your Mobile Service using Azure API Management](http://giventocode.com/azure-api-management-and-azure-mobile-services#.VhWm5PmqpBd)
- 	
+	- [Using offline data sync](https://azure.microsoft.com/en-us/documentation/articles/mobile-services-windows-store-dotnet-get-started-offline-data/)
+
 - PhoneGap
 	- [Push Notifications to PhoneGap Apps using Notification Hubs Integration](http://blogs.msdn.com/b/azuremobile/archive/2014/06/17/push-notifications-to-phonegap-apps-using-notification-hubs-integration.aspx)	 
 
