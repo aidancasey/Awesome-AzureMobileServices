@@ -19,9 +19,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 -Open Source Projects
     - [.NET Server SDK](https://github.com/Azure/azure-mobile-services)
-    
-    - [Yeoman code generator to scaffold an Azure App Service Mobile App](https://www.npmjs.com/package/generator-azure-mobile-apps)
-    
+    - [Yeoman code generator to scaffold an Azure App Service Mobile Services  App](https://www.npmjs.com/package/generator-azure-mobile-apps)
+
 
 
 - .NET
